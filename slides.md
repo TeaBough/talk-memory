@@ -229,32 +229,32 @@ FAIL, marche pas pour moi
 
 ---
 
-# More ?
+# Les champions
 
-Championnats du monde de mémoire
-Digits de PI
-Liste de photos de gens + noms
-mémorisation de jeu de carte
-
-pas des génies, juste de l'entrainement, comme sportifs
+- Championnats du monde de mémoire
+- Liste de photos de gens + noms
+- Mémorisation de jeu de carte
+- Retenir PI -> memory palace
+- Pas vraiment de génies, c'est surtout de l'entrainement, comme les sportifs
 
 ---
 
 # Conclusion
 
-- Serein, on sait qu'on peut apprendre
-- Moins magique, on sait comment ça marche
+- Il n'y a pas de magie
+- Mémoire interne vs Mémoire externe (livre, notes, pc, téléphone) plus facile.
 - Reste un effort à faire
+- Nos deux WHAOU : Anki / association image
 
-## Utilité ?
+---
 
-- Mémoire externe (livre, notes, pc, téléphone) plus facile.
-- Hommes ont toujours fait ça (peintures rupestres, écriture, imprimerie,
-  internet)
-
-## Achievement
+# Achievements
 
 - On sait placer tous les pays du monde, leurs drapeaux et leurs capitales
 - Appris vocabulaire, sait gagner au burger Quizz
+
 ---
+class: middle, center
+# Questions ?
+
 
