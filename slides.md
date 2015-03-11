@@ -107,37 +107,126 @@ FAIL, marche pas pour moi
 
 ---
 
+# Répétition espacée
 
+## Level 1 : Le mec qui bachote
+.center[![Default-aligned image](./img/cramming.gif)]
 
-# Anki
+<br />
+<div class="pros-cons">
+.left[<img src="./img/ok.png" style="width: 30px;"/> Efficace à très court terme ]
+.left[<img src="./img/ko.png" style="width: 30px;"/> Inefficae à moyen/long terme ]
+</div>
+---
 
+# Répétition espacée
 
-Maintient sur le long terme
+## Level 2 : Le mec sérieux
+.center[<img src="./img/serious_student.jpg" style="width: 300px;"/>]
 
-Si on ne l’utilise pas, la mémoire s’amenuise. Si on fait appel régilièrement à une mémoire, on
-s’en souvient plus longtemps. Si on n’y fait jamais appel, on finit par l’oublier.
-On a tous bachotté, où on apprends par coeur une lecon pour l’interrogation du lendemain.
-On s’en souvient bien le jour en question, mais on a tout oublié le lendemain. Sauf si on
-continue d’y faire appel. Et plus on y fait appel, moins on a besoin d’y faire appel. Par
-exemple, si j’y repense le lendemain, je m’en souviendrai pendant une semaine, puis s’y j’y
-repense la semaine suivante, je suis bon pour un mois, et ainsi de suite.
-IL existe une application qui se base sur ce systeme pour apprendre tout et n’importe quoi.
-On choisit ce qu’on veut apprendre (pays du monde, vocabulaire allemand) et chaque jour il
-nous en propose 20. Si ok, la même carte ne sera sortie que dans quelques jours, sinon dans
-moins de 10 minutes, et ainsi de suite chaque jour. Deviens un jeu, ludique.
-Marche bien si on le fait régulièrement (le matin dans le métro, le soir avant de se coucher).
-Laisser du temps entre chaque sessions, le cerveau doit se reposer (Focus and Defuse).
-
-Lentement mais surement.
-
-Testé, et approuvé. J’aurais adoré connaitre ce système plus jeune pour mes leçons.
-
+<br />
+<div class="pros-cons">
+.left[<img src="./img/ok.png" style="width: 30px;"/> Efficace à court/moyen terme ]
+.left[<img src="./img/ko.png" style="width: 30px;"/> Inefficace à long terme ]
+.left[<img src="./img/ko.png" style="width: 30px;"/> Perte de temps ]
+</div>
 
 ---
 
+# Répétition espacée
 
+## Level 3 : Le mec efficace
+.center[<img src="./img/cerebro.jpg" style="width: 300px;"/>]
+
+<br />
+<div class="pros-cons">
+.left[<img src="./img/ok.png" style="width: 30px;"/> Efficace à court/moyen terme ]
+.left[<img src="./img/ok.png" style="width: 30px;"/> Efficace à long terme ]
+</div>
+
+---
+
+# Répétition espacée
+
+## Pourquoi le level 3 est plus efficace ?
+
+.center[<img src="./img/forget_graph.jpg" style="width: 800px;"/>]
+
+---
+
+# Répétition espacée
+
+## Le système
+
+.center[<img src="./img/spaced_repetition_system.png" style="width: 800px;"/>]
+
+- La carte apparait quand on l'oublie
+- Côté rassurant à la GTD
+
+---
+# Répétition espacée
+
+## L'outil indispensable : Anki
+
+- Multi-plateforme( Mobile, web, linux, windows, ...)
+- Très customizable (son, latex, ...)
+- Simple à utiliser
+- Synchro multidevice
+
+---
+# Répétition espacée
+
+## Mon REX
+
+- Ajouter seulement ce qui est déjà compris
+- Utiliser tous ce qui peut aider à la mémorisation (Mnemotechniques, images, métaphores ...)
+- Pas plus de 20sec par carte
+- Commencer doucement (15 min par jour)
+- En faire une habitude (dans le métro, ou dans les files d'attentes)
+- Faire ses propres cartes
+
+---
+# PAO
+
+## L'objectif
+
+.center[<img src="./img/brain_number.jpg" style="width: 400px;"/>]
+
+---
 
 # PAO
+
+## Le principe
+
+- PAO = Person + Action + Object
+
+## Exemple
+0  Hercules soulève pierre
+</br>
+1  Einstein écrit tableau noir
+</br>
+25  Père Noel dépose cadeaux
+</br>
+43  Johny Haliday sniff coke
+</br>
+51  Amy Winehouse boit de l'alcool
+</br>
+
+00 25 43 -> Hercule dépose coke
+</br>
+51 43 01 -> Amy Winehouse sniff pierre
+</br>
+
+---
+# PAO
+
+## Verdict
+
+- Pas eu le temps d'aller jusqu'au bout de l'experimentation
+- Mettre en place un système prend du temps
+- Possibilité de coupler avec le Memory Palace
+
+
 ---
 
 # More ?
