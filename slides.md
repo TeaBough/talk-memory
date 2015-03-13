@@ -1,110 +1,130 @@
+class: full-page, slide-intro
 # Memory
 ---
-
+class: content-centered
 # Sommaire
 
 1. Introduction
-3. Images mentales (TCA)
-4. Memory Palace (TCA)
-5. Anki (THV)
+3. Images mentales
+4. Memory Palace
+5. Répétition espacée
 6. PAO
 7. Conclusion
 ---
 
-# Introduction
-
-> Pourquoi on oublie ?
-> Pourquoi on se rappelle ?
-> Pourquoi on l'a sur le bout de la langue ?
-> Comment ça marche ?
-> Comment l'améliorer ?
+class: full-page, slide-definition
+# Définition
 ---
 
-## Objectifs
+class: content-centered
+# Questions
 
-- Me souvenir où j'ai mis mes clés ?
-- Me souvenir pourquoi je viens d'ouvrir le frigo ?
-- Me souvenir des digicodes, numero de carte bleu, numero de téléphone ?
-- Me souvenir de ma liste de course
-- Me souvenir du nom des gens
-- Me souvenir de ce que j'apprends
+- Pourquoi on oublie ?
+- Pourquoi on se rappelle ?
+- Pourquoi on l'a sur le bout de la langue ?
+- Comment ça marche ?
+- Comment l'améliorer ?
 ---
 
-## REX
+# Retour d'experience(s)
 
-Moonwalking with Einstein
-THV + TCA
-Appris plein de trucs, partage
-Testé les méthodes
+.column-right[
+  ![Moonwalking with Einstein](./img/moonwalking.jpg)
+]
+
+.column-left[
+ 
+
+ 
+
+ 
+- Testé les méthodes
 - Ce qui marche
 - Ce qui ne marche pas
-- Autres méthodes
+]
+
 ---
 
+class: content-centered
+# Me souvenir...
+
+- ... où j'ai mis mes clés
+- ... pourquoi je viens d'ouvrir le frigo
+- ... de ma liste de course
+- ... des numeros de téléphone
+- ... du nom des gens
+- ... de ce que j'apprends
+---
+
+class: full-page, slide-mental-image
 # Images mentales
+---
 
-## Stockage de la mémoire
-On range pas dans des cases. Je sais/Je sais pas, pas si simple
-On a un graph
-On triangule l'information
-Phénomène du "je l'ai sur le bout de la langue"
-Assez d'accroches, on s'en souvient
+class: content-centered
+# Stockage
 
-## Accroches plus marquantes
+- Graph Database
+- Triangulation de l'information
+- Assez d'accroches => _Je m'en souviens_
+- Pas assez d'accroches => _Je l'ai sur le bout de la langue_
+---
 
-lié à une émotion
-lié à un évenement marquant
-  trivial = pas de souvenir
-  trivial different selon les gens
-lié à une musique, une image
+class: content-centered
+# Meilleure accroches
 
-## Plus facile image que chiffres abstraits
+## Émotion
+  - Joie, Peur, Colère, etc
 
-Mmontre chiffre, puis montre image. Quel est plus simple à retenir ?
-élément principal du livre, de la part tout le reste
+## Sens
+  - Douleur, Image, Bruit, Odeur
 
-création d'images mentales
-Exemple: Capitales USA. Raleigh/Columbia Caroline Nord/Sud
-
-## Major System
-Associer une consonne à chaque chiffre
-0 = s, z,
-1 = t, d
-2 = n
-3 = m
-4 = r
-5 = l
-6 = j, ch
-7 = k, g
-8 = f, v
-9 = p, b
-
-FAIL, marche pas pour moi
+## Surprenant
+  - Unique, Extravagant, Rare
 
 ---
 
-# Memory Palace - c'est quoi ?
+class: full-page, slide-vader
+# 97841578
+---
 
-![Default-aligned image](./img/memory_palace.jpg)
+class: content-centered
+# Enregistrement
+
+1. Extrapoler l'information
+2. Se former une image mentale extravagante
+3. Se souvenir de l'image mentale
+4. ...
+5. Se rappeller de l'image mentale
+6. Déduire l'information
 
 ---
 
-## Use cases
+class: full-page, slide-memory-palace
+# Memory Palace
+---
+class: content-centered
+# Spacialisation
 
-### Success
+- Point fort du cerveau
+- 2mn dans un appartement
+- Visite mentale les yeux fermées
+- Centaines de lieux en mémoire
+- Un élément (extrapolé) dans chaque pièce
 
- - Liste de course
- - Burger Quizz
- - Presentation
- - Todo list
+---
 
-### Fail
+class: content-centered
+# Use cases
 
- - Code http
+.center[![Burger de la mort](./img/burger.jpg)]
 
-### Limite
- - On a pas souvent besoin de retenir une liste ...
+- ✔ Burger de la mort
+- ✘ Codes HTTP
 
+---
+
+class: full-page, slide-anki
+# Répétition espacée
 ---
 
 # Répétition espacée
@@ -239,6 +259,17 @@ FAIL, marche pas pour moi
 
 ---
 
+class: content-centered
+# Me souvenir...
+
+- ✘ où j'ai mis mes clés
+- ✘ pourquoi je viens d'ouvrir le frigo
+- ✔ de ma liste de course
+- ✔ des numeros de téléphone
+- ✘ du nom des gens
+- ✔ de ce que j'apprends
+---
+
 # Conclusion
 
 - Il n'y a pas de magie
@@ -252,9 +283,15 @@ FAIL, marche pas pour moi
 
 - On sait placer tous les pays du monde, leurs drapeaux et leurs capitales
 - Appris vocabulaire, sait gagner au burger Quizz
+- On sait qu'on sait retenir
 
 ---
-class: middle, center
+class: full-page, slide-questions
 # Questions ?
+---
+
+# Sources
+
+http://finda.photo/image/5870
 
 

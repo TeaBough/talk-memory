@@ -107,14 +107,6 @@ plus rapide en reading plus tard.
 
 ## Souvenir d'une liste, Memory Palace
 
-Là où le cerveau est encore meilleur c'est pour se souvenir des espaces. Vous
-pouvez tous vous visualiser votre appartement, ou la maison où vous viviez
-quand vous étiez petit et vous y balader les yeux fermés.
-
-C'est en tirant parti de cette capacité et de ce que je disais sur les images,
-qu'est n'est la méthode du Memory Palace (sherlock). Si besoin de se souvenir
-d'une liste, on visite la maison en mettant quelque chose de marquant extrapolé
-de la liste dans chaque pièce (+ Exemple).
 
 
 

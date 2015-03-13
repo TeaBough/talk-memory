@@ -10,7 +10,7 @@ body {
 }
 .remark-slide-content {
   background-color: #002458;
-  padding:0.5em 2em;
+  padding:0.5rem 2rem;
   position:relative;
 }
  /* Remove drop shadow */
@@ -25,6 +25,16 @@ h1, h2, h3 {
   line-height: 1.3em;
   margin: 0 0 20px 0;
 }
+ul, ol {
+  font-size:2rem;
+  width:90%;
+  margin:0 auto;
+}
+li {
+  padding-bottom:0.3em;
+}
+
+
 
 /* Full pages */
 .full-page {
@@ -37,16 +47,71 @@ h1, h2, h3 {
 }
 .full-page h1 {
   color:#FFFFFF;
-  font-size:5em;
+  font-size:5rem;
   text-shadow: 1px 1px 2px rgba(0,0,0,0.25);
 }
 
-/* List of items */
-ul {
-  font-size:1.5em;
-  width:90%;
+/* Centered slide */
+.content-centered {
+  vertical-align:middle;
+  position:relative;
+}
+.content-centered h1 {
+  position:absolute;
+  top:0.5rem;
+  left:2rem;
+  right:2rem;
+}
+.content-centered ul, .content-centered ol {
+  width:80%;
   margin:0 auto;
 }
-li {
-  padding-bottom:0.3em;
+
+/* Columns */
+.column-right {
+  float:right;
+  width:50%;
 }
+.column-left {
+  float:left;
+  width:50%;
+}
+
+
+/* Specific slides */
+.slide-definition {
+  background-image: url(../img/bg-definition.jpg);
+  background-position:top left !important;
+  background-size:100% 100% !important;
+}
+.slide-intro {
+  background-image: url(../img/bg-intro.jpg);
+  background-position:top left !important;
+  background-size:100% 100% !important;
+}
+.slide-mental-image {
+  background-image: url(../img/bg-mental-image.jpg);
+  background-position:top left !important;
+  background-size:100% 100% !important;
+}
+.slide-vader {
+  background-image: url(../img/vader.jpg);
+  background-position:top left !important;
+  background-size:100% 100% !important;
+}
+.slide-memory-palace {
+  background-image: url(../img/bg-memory-palace.png);
+  background-position:top left !important;
+  background-size:100% 100% !important;
+}
+.slide-anki {
+  background-image: url(../img/bg-anki.png);
+  background-position:top left !important;
+  background-size:100% 100% !important;
+}
+.slide-questions {
+  background-image: url(../img/bg-questions.jpg);
+  background-position:top left !important;
+  background-size:100% 100% !important;
+}
+
