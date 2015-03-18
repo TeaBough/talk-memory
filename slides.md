@@ -1,5 +1,5 @@
 class: full-page, slide-intro
-# Memory
+# Techniques de mémorisation
 ---
 class: content-centered
 # Sommaire
@@ -103,7 +103,7 @@ class: full-page, slide-memory-palace
 # Memory Palace
 ---
 class: content-centered
-# Spacialisation
+# Spatialisation
 
 - Point fort du cerveau
 - 2mn dans un appartement
@@ -270,6 +270,7 @@ class: content-centered
 - ✔ de ce que j'apprends
 ---
 
+class: content-centered
 # Conclusion
 
 - Il n'y a pas de magie
@@ -278,7 +279,7 @@ class: content-centered
 - Nos deux WHAOU : Anki / association image
 
 ---
-
+class: content-centered
 # Achievements
 
 - On sait placer tous les pays du monde, leurs drapeaux et leurs capitales
