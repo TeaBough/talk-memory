@@ -234,7 +234,7 @@ class: full-page, slide-anki
 
 00 25 43 -> Hercule dépose coke
 </br>
-51 43 01 -> Amy Winehouse sniff pierre
+51 43 00 -> Amy Winehouse sniff pierre
 </br>
 
 ---
