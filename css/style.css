@@ -4,6 +4,9 @@ body {
   font-weight: normal;
   color: #FFFFFF;
 }
+a {
+  color:white;
+}
 /* Generic containers, setting same background color */
 .remark-container {
   background-color: #002458;
@@ -77,6 +80,11 @@ li {
   width:50%;
 }
 
+/* Checklists */
+.checklist li {
+  list-style:none;
+}
+
 
 /* Specific slides */
 .slide-definition {
@@ -105,7 +113,7 @@ li {
   background-size:100% 100% !important;
 }
 .slide-anki {
-  background-image: url(../img/bg-anki.png);
+  background-image: url(../img/bg-anki.jpg);
   background-position:top left !important;
   background-size:100% 100% !important;
 }
