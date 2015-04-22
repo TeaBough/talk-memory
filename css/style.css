@@ -4,6 +4,9 @@ body {
   font-weight: normal;
   color: #FFFFFF;
 }
+a {
+  color:white;
+}
 /* Generic containers, setting same background color */
 .remark-container {
   background-color: #002458;
@@ -35,20 +38,19 @@ li {
 }
 
 
-
 /* Full pages */
 .full-page {
   text-align:center;
   background-repeat: no-repeat;
-  background-size:100% !important;
-  /* background-position:center !important; */
+  background-position:top left !important;
+  background-size:100% 100% !important;
   vertical-align:middle;
   text-align:center;
 }
 .full-page h1 {
   color:#FFFFFF;
   font-size:5rem;
-  text-shadow: 1px 1px 2px rgba(0,0,0,0.25);
+  text-shadow:3px 4px 5px rgba(0,0,0,0.75)
 }
 
 /* Centered slide */
@@ -66,6 +68,10 @@ li {
   width:80%;
   margin:0 auto;
 }
+.content-centered ul ul {
+  margin-top:0.3em;
+}
+
 
 /* Columns */
 .column-right {
@@ -77,41 +83,52 @@ li {
   width:50%;
 }
 
+/* Checklists */
+.checklist li {
+  list-style:none;
+}
+
+/* Sources */
+.sources ul {
+  position:absolute;
+  left:0;
+  bottom:20px;
+  font-size:1rem;
+}
+.sources li {
+  list-style:none;
+  text-align:left;
+}
 
 /* Specific slides */
-.slide-definition {
-  background-image: url(../img/bg-definition.jpg);
-  background-position:top left !important;
-  background-size:100% 100% !important;
-}
 .slide-intro {
   background-image: url(../img/bg-intro.jpg);
-  background-position:top left !important;
-  background-size:100% 100% !important;
+}
+.slide-definition {
+  background-image: url(../img/bg-definition.jpg);
 }
 .slide-mental-image {
   background-image: url(../img/bg-mental-image.jpg);
-  background-position:top left !important;
-  background-size:100% 100% !important;
 }
 .slide-vader {
   background-image: url(../img/vader.jpg);
-  background-position:top left !important;
-  background-size:100% 100% !important;
 }
 .slide-memory-palace {
   background-image: url(../img/bg-memory-palace.png);
-  background-position:top left !important;
-  background-size:100% 100% !important;
 }
 .slide-anki {
-  background-image: url(../img/bg-anki.png);
-  background-position:top left !important;
-  background-size:100% 100% !important;
+  background-image: url(../img/bg-anki.jpg);
+}
+.slide-pao {
+  background-image: url(../img/bg-pao.jpg);
+}
+.slide-more {
+  background-image: url(../img/bg-more.jpg);
 }
 .slide-questions {
   background-image: url(../img/bg-questions.jpg);
-  background-position:top left !important;
-  background-size:100% 100% !important;
+}
+.slide-questions .talks {
+  font-size:1.5em;
 }
 

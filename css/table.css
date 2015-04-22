@@ -54,7 +54,8 @@ table > thead > tr > td {
 
 /* Table header */
 table > thead {
-  background:#f9f9f9;
+  background:#ccc;
+  color:#333;
 }
 table > thead > tr > th {
   text-align:center;
@@ -65,8 +66,8 @@ table > tbody > tr > td {
 }
 /* First column */
 table > tbody > tr > td:first-child {
-  background:#f9f9f9;
-  text-align:left;
-
-
+  background:#ccc;
+  color:#333;
+  text-align:center;
+  font-weight:bold;
 }
